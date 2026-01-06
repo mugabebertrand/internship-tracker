@@ -37,7 +37,7 @@ javac *.java
 
 Run:
 ```
-java Menu
+java PathWay
 ```
 
 
